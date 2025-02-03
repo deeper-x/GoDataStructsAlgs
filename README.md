@@ -4,7 +4,6 @@
 [![codecov](https://codecov.io/gh/TheAlgorithms/Go/graph/badge.svg?token=aSWh7N8tNx)](https://codecov.io/gh/TheAlgorithms/Go)
 ![godocmd](https://github.com/tjgurwara99/Go/workflows/godocmd/badge.svg)
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Go.svg?label=Repo%20size&style=flat-square)&nbsp;
-![update_directory_md](https://github.com/TheAlgorithms/Go/workflows/update_directory_md/badge.svg)
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://the-algorithms.com/discord/)&nbsp;
 
 ### Algorithms implemented in Go (for education)
